@@ -2,6 +2,6 @@
   "name": "Empty with 64GB",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "hostRequirements": {
-    "storage": "40gb"
+    "storage": "32gb"
   }
 }
